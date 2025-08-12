@@ -71,3 +71,7 @@ AI-based prediction models for hazard prevention
 
 7.**Acknowledgements**<br>
 This project was inspired by real-life incidents where harmful gases led to fatalities, highlighting the need for affordable and proactive safety systems in residential spaces.
+<h2>IoT Based Weather Monitoring System 🌦️</h2>
+<p align="center">
+  <img src="Portfolio/IOT.jpg" alt="IoT Project" width="500">
+</p>
